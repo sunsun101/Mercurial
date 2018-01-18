@@ -1,4 +1,4 @@
-this is a sample website developed using django framework
+this is a sample website developed using django framework(development phase)
 
 
 
